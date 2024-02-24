@@ -1,10 +1,13 @@
 # Acoustic
-This project aims at:
 
-- Resolving the Helmholtz equation numerically with Dirichlet and Neumann conditions on the boundary for different geometries.
+This project aims to achieve the following objectives:
+
+- Numerically solving the Helmholtz equation with Dirichlet and Neumann boundary conditions for various geometries.
   
-- Controlling the numerical solution accuracy of acoustic waves by changing the quality of the mesh.
+- Controlling the accuracy of numerical solutions for acoustic waves by adjusting mesh quality.
+  
+- Implementing a fractal to simulate irregularities in geometry.
+  
+- Investigating eigenmode localization and identification using energy loss and surface analysis.
 
-- Implementing a fractal that represents a possible irregularity in the geometry.
-
-- Studying the localization of eigenmodes and identifying them using energy loss and the existing surface.
+Feel free to explore the project for detailed implementation and results. If you have any questions or feedback, please don't hesitate to reach out.
